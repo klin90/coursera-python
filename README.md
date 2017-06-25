@@ -1,2 +1,2 @@
-# coursera-python
-Exercises for Coursera: Introduction to Data Science in Python
+# Miscellaneous
+A collection of miscellaneous mini-projects, mostly completed for online MOOC classes.
